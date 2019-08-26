@@ -33,27 +33,27 @@
             }
         }
 
-        public void PlaceTiles(TiledLevelData levelData, Tilemap tilemap)
+        public void PlaceTiles(TiledLevelData levelData, Tilemap tilemap, System.Action<int, Vector3Int> spawnFunction)
         {
             tilemap.ClearAllTiles();
 
-            int x = 0;
-            int y = levelData.height - 1;
+            Vector3Int tile_pos = new Vector3Int(0, levelData.height - 1, 0);
             foreach (var tile_id in levelData.tile_ids)
             {
                 if (spawnTileSet.Contains(tile_id))
                 {
-                    tilemap.SetTile(new Vector3Int(x, y, 0), tileset[0]);
+                    spawnFunction(tile_id, tile_pos);
+                    tilemap.SetTile(tile_pos, tileset[0]);
                 } else if (tile_id >= 0)
                 {
-                    tilemap.SetTile(new Vector3Int(x, y, 0), tileset[tile_id]);
+                    tilemap.SetTile(tile_pos, tileset[tile_id]);
                 }
 
-                x++;
-                if (x >= levelData.width)
+                tile_pos.x++;
+                if (tile_pos.x >= levelData.width)
                 {
-                    x = 0;
-                    y--;
+                    tile_pos.x = 0;
+                    tile_pos.y--;
                 }
             }
         }

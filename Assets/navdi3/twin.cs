@@ -32,6 +32,8 @@
         public static twin down { get { return new twin(0, -1); } }
         public static implicit operator Vector2(twin pos) { return new Vector2(pos.x, pos.y); }
         public static implicit operator Vector3(twin pos) { return new Vector3(pos.x, pos.y); }
+        public static implicit operator Vector2Int(twin pos) { return new Vector2Int(pos.x, pos.y); }
+        public static implicit operator Vector3Int(twin pos) { return new Vector3Int(pos.x, pos.y, 0); }
         override public bool Equals(object obj)
         {
             if (obj is twin) return this == (twin)obj;

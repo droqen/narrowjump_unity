@@ -24,6 +24,18 @@
             Prefab.SetActive(false); // put my prefab 2 sleep
         }
 
+        public GameObject Spawn(Transform parent = null, Vector3? position = null)
+        {
+            var spawned = InstancePrefab(Prefab);
+            spawned.name = this.name;
+
+            if (parent) spawned.transform.SetParent(parent);
+            if (position.HasValue) spawned.transform.position = position.Value;
+
+            spawned.SetActive(true);
+            return spawned;
+        }
+
         public T Spawn<T>(Transform parent = null, Vector3? position = null) where T : Component
         {
             var spawned = InstancePrefab<T>(Prefab);
