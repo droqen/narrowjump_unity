@@ -32,10 +32,10 @@ public class BouncyPlayerScript : MonoBehaviour
     {
         bool floor = false;
 
-        if (body.velocity.y <= 0) {
+        if (body.velocity.y <= 0.01f) {
             RaycastHit2D hit;
-            hit = Physics2D.BoxCast(body.position + box.offset, box.size - Vector2.right * .01f, 0, Vector2.down, 0.5f, LayerMask.GetMask("Solid"));
-            if (hit.collider) { floor = true; floorbuffer = 10; }
+            hit = Physics2D.BoxCast(body.position + box.offset, box.size - Vector2.right * .01f, 0, Vector2.down, .1f, LayerMask.GetMask("Solid"));
+            if (hit.collider != null) { floor = true; floorbuffer = 20; }
         }
 
         bool moving;

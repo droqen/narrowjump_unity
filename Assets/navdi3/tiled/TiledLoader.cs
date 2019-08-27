@@ -12,7 +12,7 @@
     {
         public TextAsset ass;
         public Tile[] tileset;
-        public HashSet<int> spawnTileSet;
+        [HideInInspector] public HashSet<int> spawnTileSet;
         private void Start()
         {
             var tld = Load(ass);
