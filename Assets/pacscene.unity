@@ -756,8 +756,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   banks: {fileID: 1118152989}
-  firstLevel: {fileID: 4900000, guid: d54052e397afd4b4ba5d01bd3e28bb80, type: 3}
-  secondLevel: {fileID: 4900000, guid: 2649fbacaa6894c7aa779be39ca06ca9, type: 3}
+  levelAssets:
+  - {fileID: 4900000, guid: d54052e397afd4b4ba5d01bd3e28bb80, type: 3}
+  - {fileID: 4900000, guid: 2649fbacaa6894c7aa779be39ca06ca9, type: 3}
+  - {fileID: 4900000, guid: 9f20dae733dec43efa9687489d20fbd4, type: 3}
+  - {fileID: 4900000, guid: 0bfc1c955378e452a89f8794860196f4, type: 3}
+  - {fileID: 4900000, guid: 6bcdc4ed26fbe4bd3a2ad0f775c52277, type: 3}
+  - {fileID: 4900000, guid: 5b34db6cfb69943789c444ebead6d431, type: 3}
+  - {fileID: 4900000, guid: ed99296d2698c49d6a0af45dd0097527, type: 3}
+  - {fileID: 4900000, guid: 5928f83e869dc47ce87e2534ea1896af, type: 3}
+  - {fileID: 4900000, guid: 88f385f0107c342fd9ce3c1a3085e7af, type: 3}
+  - {fileID: 0}
   loader: {fileID: 984960251}
   spriteLot: {fileID: 1627348084}
   tilemap: {fileID: 583386548}
