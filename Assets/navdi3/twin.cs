@@ -6,6 +6,8 @@
     public struct twin
     {
         public int x; public int y;
+        public twin(Vector3Int v) { this.x = v.x; this.y = v.y; }
+        public twin(Vector2Int v) { this.x = v.x; this.y = v.y; }
         public twin(Vector2 v2) { this.x = (int)v2.x; this.y = (int)v2.y; }
         public twin(int x, int y) { this.x = x; this.y = y; }
         public int taxicabLength { get { return Mathf.Abs(x) + Mathf.Abs(y); } }
@@ -71,7 +73,7 @@
             Util.shufl<twin>(ref compass);
             compassStraight = false;
         }
-        public static twin[] compass;
+        public static twin[] compass = { right, up, left, down };
         static bool compassStraight;
     }
 }

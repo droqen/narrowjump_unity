@@ -10,13 +10,13 @@
 
     public class TiledLoader : MonoBehaviour
     {
-        public TextAsset ass;
+        //public TextAsset ass;
         public Tile[] tileset;
         [HideInInspector] public HashSet<int> spawnTileSet;
         private void Start()
         {
-            var tld = Load(ass);
-            Dj.Tempf("tld debug: {0}x{1}, {2}", tld.width, tld.height, tld.tile_ids[0]);
+            //var tld = Load(ass);
+            //Dj.Tempf("tld debug: {0}x{1}, {2}", tld.width, tld.height, tld.tile_ids[0]);
         }
 
         public void SetupTileset(SpriteLot tilesetSprites, int[] solidTileIds, int[] spawnTileIds)
