@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-
 using navdi3;
 using navdi3.tiled;
 
-public class ShootbugXXI : MonoBehaviour
+public class HackyXXI : MonoBehaviour
 {
     public Tilemap tilemap;
     public TextAsset testLevel;
@@ -16,6 +15,7 @@ public class ShootbugXXI : MonoBehaviour
 
     public EntityLot players { get; set; }
     public EntityLot attacks { get; set; }
+    public EntityLot ladders { get; set; }
 
     // Start is called before the first frame update
     void Start()
@@ -27,19 +27,21 @@ public class ShootbugXXI : MonoBehaviour
 
         players = EntityLot.NewEntLot("players");
         attacks = EntityLot.NewEntLot("attacks");
+        ladders = EntityLot.NewEntLot("ladders");
 
         loader.SetupTileset(sprites,
-            solidTileIds: new int[] { 3 },
-            spawnTileIds: new int[] { 1 });
+            solidTileIds: new int[] { 11 },
+            spawnTileIds: new int[] { 1, 2 });
         loader.PlaceTiles(loader.Load(testLevel), tilemap, SpawnTileId);
     }
 
     void SpawnTileId(int tileId, Vector3Int tilePos)
     {
         Vector2 entPos = tilemap.layoutGrid.GetCellCenterWorld(tilePos);
-        switch(tileId)
+        switch (tileId)
         {
-            case 1: banks["marine"].Spawn(players.transform, entPos); break;
+            case 1: banks["player"].Spawn(players.transform, entPos); break;
+            case 2: banks["ladder"].Spawn(ladders.transform, entPos); break;
         }
     }
 }

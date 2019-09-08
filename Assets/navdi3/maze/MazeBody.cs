@@ -91,6 +91,7 @@
             return master.grid.GetCellCenterWorld(cell_pos);
         }
 
+
         public HashSet<MazeBody> GetMazeBodiesNear(float maxDist = 8f, Vector3? position = null, bool exclude_self = true)
         {
             if (!position.HasValue) position = transform.position;

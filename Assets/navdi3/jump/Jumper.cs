@@ -14,7 +14,10 @@
         public float x_MaxMoveSpeed = 75;
         public float x_Acceleration = 25;
         //public float x_Friction = 20;
+        public float x_AccelerationInAir = 12;
+
         public float y_Gravity = 10;
+        public float y_GravityFastFall = 20;
         public float y_JumpSpeed = 200;
         public float y_MaxFallSpeed = 400;
 
@@ -41,13 +44,13 @@
             if (jumpbuffer > 0) jumpbuffer--;
             if (floorbuffer > 0) floorbuffer--;
 
-            var accel = x_Acceleration;
+            var accel = floorbuffer > 0 ? x_Acceleration : x_AccelerationInAir;
 
             body.velocity = new Vector2(
                 Util.tow(body.velocity.x, x_MaxMoveSpeed * pin.x, accel),
 
                 IsFloored()?body.velocity.y:
-                Util.tow(body.velocity.y, -y_MaxFallSpeed, y_Gravity)
+                Util.tow(body.velocity.y, -y_MaxFallSpeed, jumpheld? y_Gravity:y_GravityFastFall)
             );
         }
         

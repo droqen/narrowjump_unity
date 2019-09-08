@@ -1,0 +1,2815 @@
+fileFormatVersion: 2
+guid: cb35f926958114c82b8d82f9bf411c06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4049408570481132571
+    second: SPRITESHEET_0
+  - first:
+      213: -3748852889054641829
+    second: SPRITESHEET_1
+  - first:
+      213: -5593072036842490457
+    second: SPRITESHEET_2
+  - first:
+      213: -5765080199954313839
+    second: SPRITESHEET_3
+  - first:
+      213: -6286716326322566538
+    second: SPRITESHEET_4
+  - first:
+      213: 9155847412903573446
+    second: SPRITESHEET_5
+  - first:
+      213: 5783214642161949802
+    second: SPRITESHEET_6
+  - first:
+      213: 146626424785522928
+    second: SPRITESHEET_7
+  - first:
+      213: -835761451566679612
+    second: SPRITESHEET_8
+  - first:
+      213: -5600918334349035004
+    second: SPRITESHEET_9
+  - first:
+      213: 548716011028129767
+    second: SPRITESHEET_10
+  - first:
+      213: -1724668727643394718
+    second: SPRITESHEET_11
+  - first:
+      213: -7820655119079245161
+    second: SPRITESHEET_12
+  - first:
+      213: -6760078231457647458
+    second: SPRITESHEET_13
+  - first:
+      213: -2278203689056862397
+    second: SPRITESHEET_14
+  - first:
+      213: 2938058271534304512
+    second: SPRITESHEET_15
+  - first:
+      213: -3649236962411456955
+    second: SPRITESHEET_16
+  - first:
+      213: -3573548052049507709
+    second: SPRITESHEET_17
+  - first:
+      213: 4222582665167799583
+    second: SPRITESHEET_18
+  - first:
+      213: 3495138026807228646
+    second: SPRITESHEET_19
+  - first:
+      213: -2216413925783447948
+    second: SPRITESHEET_20
+  - first:
+      213: -2153009823690494675
+    second: SPRITESHEET_21
+  - first:
+      213: -4895833005819419918
+    second: SPRITESHEET_22
+  - first:
+      213: 6384146620502916662
+    second: SPRITESHEET_23
+  - first:
+      213: 6181491116905185815
+    second: SPRITESHEET_24
+  - first:
+      213: 1229416647328247362
+    second: SPRITESHEET_25
+  - first:
+      213: -2559387439589929480
+    second: SPRITESHEET_26
+  - first:
+      213: 3726802412216301352
+    second: SPRITESHEET_27
+  - first:
+      213: -3920639460970942785
+    second: SPRITESHEET_28
+  - first:
+      213: -1815714631407761451
+    second: SPRITESHEET_29
+  - first:
+      213: 8308474591941666669
+    second: SPRITESHEET_30
+  - first:
+      213: 8308202308564526642
+    second: SPRITESHEET_31
+  - first:
+      213: 5002874766445032554
+    second: SPRITESHEET_32
+  - first:
+      213: -6445677841412432915
+    second: SPRITESHEET_33
+  - first:
+      213: 6052327024128404739
+    second: SPRITESHEET_34
+  - first:
+      213: -8720914799749521296
+    second: SPRITESHEET_35
+  - first:
+      213: -1972748903345441364
+    second: SPRITESHEET_36
+  - first:
+      213: -5149618368237271603
+    second: SPRITESHEET_37
+  - first:
+      213: -4175156159842038111
+    second: SPRITESHEET_38
+  - first:
+      213: -8598157167828664117
+    second: SPRITESHEET_39
+  - first:
+      213: 3956320719978665044
+    second: SPRITESHEET_40
+  - first:
+      213: -7498676108705062665
+    second: SPRITESHEET_41
+  - first:
+      213: 6484612872729751653
+    second: SPRITESHEET_42
+  - first:
+      213: -4655753884180220392
+    second: SPRITESHEET_43
+  - first:
+      213: 2750322585904267184
+    second: SPRITESHEET_44
+  - first:
+      213: -9060536033555881009
+    second: SPRITESHEET_45
+  - first:
+      213: -4940233001697523851
+    second: SPRITESHEET_46
+  - first:
+      213: 5059361053032281650
+    second: SPRITESHEET_47
+  - first:
+      213: 4559433662363387241
+    second: SPRITESHEET_48
+  - first:
+      213: 8731939612457673905
+    second: SPRITESHEET_49
+  - first:
+      213: -3934883945156488843
+    second: SPRITESHEET_50
+  - first:
+      213: -7002064159680366823
+    second: SPRITESHEET_51
+  - first:
+      213: -2059698680000560066
+    second: SPRITESHEET_52
+  - first:
+      213: -881839932227698234
+    second: SPRITESHEET_53
+  - first:
+      213: 2475867129631802307
+    second: SPRITESHEET_54
+  - first:
+      213: 2632666328700653889
+    second: SPRITESHEET_55
+  - first:
+      213: -3760125600066950770
+    second: SPRITESHEET_56
+  - first:
+      213: 3374157316512881723
+    second: SPRITESHEET_57
+  - first:
+      213: 9180681812172659609
+    second: SPRITESHEET_58
+  - first:
+      213: 1028801802991039356
+    second: SPRITESHEET_59
+  - first:
+      213: -8531436516514358059
+    second: SPRITESHEET_60
+  - first:
+      213: 1091656188498082874
+    second: SPRITESHEET_61
+  - first:
+      213: 8198786364709212235
+    second: SPRITESHEET_62
+  - first:
+      213: -7762239462925019503
+    second: SPRITESHEET_63
+  - first:
+      213: -3512481064773658632
+    second: SPRITESHEET_64
+  - first:
+      213: -6674936487333797981
+    second: SPRITESHEET_65
+  - first:
+      213: -2921698393011704859
+    second: SPRITESHEET_66
+  - first:
+      213: -2537802567456251729
+    second: SPRITESHEET_67
+  - first:
+      213: 2905500066442764107
+    second: SPRITESHEET_68
+  - first:
+      213: 5695022034738348129
+    second: SPRITESHEET_69
+  - first:
+      213: -6957921950403424279
+    second: SPRITESHEET_70
+  - first:
+      213: 8668406585447599333
+    second: SPRITESHEET_71
+  - first:
+      213: -7471865025159327034
+    second: SPRITESHEET_72
+  - first:
+      213: -8469500577347381798
+    second: SPRITESHEET_73
+  - first:
+      213: -8803052510159220056
+    second: SPRITESHEET_74
+  - first:
+      213: 5193582111725153403
+    second: SPRITESHEET_75
+  - first:
+      213: -6829747331563995388
+    second: SPRITESHEET_76
+  - first:
+      213: -6967369430319872703
+    second: SPRITESHEET_77
+  - first:
+      213: 4464286964986096967
+    second: SPRITESHEET_78
+  - first:
+      213: 3775862007001203955
+    second: SPRITESHEET_79
+  - first:
+      213: -8918629877124110075
+    second: SPRITESHEET_80
+  - first:
+      213: 8616112317551388468
+    second: SPRITESHEET_81
+  - first:
+      213: -6130735260729201533
+    second: SPRITESHEET_82
+  - first:
+      213: -3069181654496846248
+    second: SPRITESHEET_83
+  - first:
+      213: 5930390654954497121
+    second: SPRITESHEET_84
+  - first:
+      213: 2384177426470896025
+    second: SPRITESHEET_85
+  - first:
+      213: 149640388297496266
+    second: SPRITESHEET_86
+  - first:
+      213: 4326449070022028020
+    second: SPRITESHEET_87
+  - first:
+      213: -2879801458470702686
+    second: SPRITESHEET_88
+  - first:
+      213: 6790197306968063190
+    second: SPRITESHEET_89
+  - first:
+      213: -8291449521303026425
+    second: SPRITESHEET_90
+  - first:
+      213: 5314864419035776097
+    second: SPRITESHEET_91
+  - first:
+      213: 993039338325677550
+    second: SPRITESHEET_92
+  - first:
+      213: 8535740188243813599
+    second: SPRITESHEET_93
+  - first:
+      213: 4788391851485205404
+    second: SPRITESHEET_94
+  - first:
+      213: -6584213954371916251
+    second: SPRITESHEET_95
+  - first:
+      213: 2219521176590830184
+    second: SPRITESHEET_96
+  - first:
+      213: -8608940389716702768
+    second: SPRITESHEET_97
+  - first:
+      213: 6003415864955830315
+    second: SPRITESHEET_98
+  - first:
+      213: -3054202685388284301
+    second: SPRITESHEET_99
+  - first:
+      213: -1100258089730676788
+    second: HackySprites_0
+  - first:
+      213: 8088263406211586533
+    second: HackySprites_1
+  - first:
+      213: -4285216392733939683
+    second: HackySprites_2
+  - first:
+      213: 4464929691467085600
+    second: HackySprites_3
+  - first:
+      213: 3683398723856648956
+    second: HackySprites_4
+  - first:
+      213: 7377829344423011368
+    second: HackySprites_5
+  - first:
+      213: -9184572113876613027
+    second: HackySprites_6
+  - first:
+      213: 8330856575486019137
+    second: HackySprites_7
+  - first:
+      213: -3293528721297654877
+    second: HackySprites_8
+  - first:
+      213: -3713420863815283190
+    second: HackySprites_9
+  - first:
+      213: 5008789626901511209
+    second: HackySprites_10
+  - first:
+      213: -1074380525354365939
+    second: HackySprites_11
+  - first:
+      213: -1079219043893858827
+    second: HackySprites_12
+  - first:
+      213: -3543495636023364074
+    second: HackySprites_13
+  - first:
+      213: -105738977694979969
+    second: HackySprites_14
+  - first:
+      213: -5281464730680197118
+    second: HackySprites_15
+  - first:
+      213: -5358503115347591159
+    second: HackySprites_16
+  - first:
+      213: 4735543749927437588
+    second: HackySprites_17
+  - first:
+      213: -358651861408402519
+    second: HackySprites_18
+  - first:
+      213: 8928951013992595900
+    second: HackySprites_19
+  - first:
+      213: -8810804525836117372
+    second: HackySprites_20
+  - first:
+      213: 5204885209979864365
+    second: HackySprites_21
+  - first:
+      213: 771629940019517476
+    second: HackySprites_22
+  - first:
+      213: -6710710332751562626
+    second: HackySprites_23
+  - first:
+      213: -7237729540373075427
+    second: HackySprites_24
+  - first:
+      213: 7487970796781625638
+    second: HackySprites_25
+  - first:
+      213: 8043826614004007869
+    second: HackySprites_26
+  - first:
+      213: -4987832111584287026
+    second: HackySprites_27
+  - first:
+      213: -91959271874427092
+    second: HackySprites_28
+  - first:
+      213: -4534588050589315013
+    second: HackySprites_29
+  - first:
+      213: 3405243350818970786
+    second: HackySprites_30
+  - first:
+      213: -5754580710001145222
+    second: HackySprites_31
+  - first:
+      213: 4615632466269733095
+    second: HackySprites_32
+  - first:
+      213: -5087942744163816179
+    second: HackySprites_33
+  - first:
+      213: -4328385233351531501
+    second: HackySprites_34
+  - first:
+      213: 7376895364091563661
+    second: HackySprites_35
+  - first:
+      213: -7702059800135554896
+    second: HackySprites_36
+  - first:
+      213: -3435846721916636881
+    second: HackySprites_37
+  - first:
+      213: 1002674175682914357
+    second: HackySprites_38
+  - first:
+      213: -877954674063779509
+    second: HackySprites_39
+  - first:
+      213: -7936881230774025998
+    second: HackySprites_40
+  - first:
+      213: 2929476262715981377
+    second: HackySprites_41
+  - first:
+      213: 5128240777287737912
+    second: HackySprites_42
+  - first:
+      213: 429459607886647736
+    second: HackySprites_43
+  - first:
+      213: 6419080985244016306
+    second: HackySprites_44
+  - first:
+      213: -5245809917792245298
+    second: HackySprites_45
+  - first:
+      213: -1727964369291186957
+    second: HackySprites_46
+  - first:
+      213: -4873236306080757372
+    second: HackySprites_47
+  - first:
+      213: -810835483960004474
+    second: HackySprites_48
+  - first:
+      213: 2780008786169104730
+    second: HackySprites_49
+  - first:
+      213: 3124580160277514731
+    second: HackySprites_50
+  - first:
+      213: -8159900125149727217
+    second: HackySprites_51
+  - first:
+      213: 7149392585872441173
+    second: HackySprites_52
+  - first:
+      213: -7427036942087560806
+    second: HackySprites_53
+  - first:
+      213: 8256794884752518536
+    second: HackySprites_54
+  - first:
+      213: 1549728512875448433
+    second: HackySprites_55
+  - first:
+      213: 2084912455915303574
+    second: HackySprites_56
+  - first:
+      213: 295905139653682027
+    second: HackySprites_57
+  - first:
+      213: -7787878294928214943
+    second: HackySprites_58
+  - first:
+      213: -5761087790578978286
+    second: HackySprites_59
+  - first:
+      213: 9157328191094408655
+    second: HackySprites_60
+  - first:
+      213: 3589096499567964932
+    second: HackySprites_61
+  - first:
+      213: 1338734653148686687
+    second: HackySprites_62
+  - first:
+      213: -8156746844236243165
+    second: HackySprites_63
+  - first:
+      213: -5771535930700300375
+    second: HackySprites_64
+  - first:
+      213: -7754520020455455805
+    second: HackySprites_65
+  - first:
+      213: 1747171670240252144
+    second: HackySprites_66
+  - first:
+      213: 6575747984349274268
+    second: HackySprites_67
+  - first:
+      213: -4310108104967149035
+    second: HackySprites_68
+  - first:
+      213: 6318221239522644301
+    second: HackySprites_69
+  - first:
+      213: 4384449110736048314
+    second: HackySprites_70
+  - first:
+      213: -3314590767581017276
+    second: HackySprites_71
+  - first:
+      213: 8783364705269748842
+    second: HackySprites_72
+  - first:
+      213: 1143838740650113039
+    second: HackySprites_73
+  - first:
+      213: -1415274692585461627
+    second: HackySprites_74
+  - first:
+      213: -9183841230090343
+    second: HackySprites_75
+  - first:
+      213: 798107524075128610
+    second: HackySprites_76
+  - first:
+      213: 727544678527341423
+    second: HackySprites_77
+  - first:
+      213: -9220722770674886088
+    second: HackySprites_78
+  - first:
+      213: -8681862709820796340
+    second: HackySprites_79
+  - first:
+      213: -3476924191219692548
+    second: HackySprites_80
+  - first:
+      213: -483383130911112996
+    second: HackySprites_81
+  - first:
+      213: 5772644149527467956
+    second: HackySprites_82
+  - first:
+      213: 4634830242317343053
+    second: HackySprites_83
+  - first:
+      213: 4016258618058634726
+    second: HackySprites_84
+  - first:
+      213: 1496939235123798520
+    second: HackySprites_85
+  - first:
+      213: 9206235075007670852
+    second: HackySprites_86
+  - first:
+      213: 2690560965915077302
+    second: HackySprites_87
+  - first:
+      213: 8145470889953582571
+    second: HackySprites_88
+  - first:
+      213: 7198922746442196138
+    second: HackySprites_89
+  - first:
+      213: 218334129392452019
+    second: HackySprites_90
+  - first:
+      213: 828394118398169862
+    second: HackySprites_91
+  - first:
+      213: 803496469797075184
+    second: HackySprites_92
+  - first:
+      213: 7616393802810539777
+    second: HackySprites_93
+  - first:
+      213: -7474112497470524754
+    second: HackySprites_94
+  - first:
+      213: -6323281463811229647
+    second: HackySprites_95
+  - first:
+      213: -4797779558221908121
+    second: HackySprites_96
+  - first:
+      213: 2036958429764974042
+    second: HackySprites_97
+  - first:
+      213: 736921052086985803
+    second: HackySprites_98
+  - first:
+      213: 4183688116646096158
+    second: HackySprites_99
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HackySprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da707ab09c14e208665b9f901926c7
+      internalID: -1100258089730676788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ed5506fcb3402ea34667e6a8ea147
+      internalID: 8088263406211586533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bcf0e7b4d194e0c9f76267b3a69e01
+      internalID: -4285216392733939683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff043cd108646b5a3c6089e7fd76eb
+      internalID: 4464929691467085600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d01fb8bb81d4d12a579b766fd9dc10
+      internalID: 3683398723856648956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6768a81e355974c9a92c31a550ffe772
+      internalID: 7377829344423011368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16c7bf7637fe4fe78d21794255fd630
+      internalID: -9184572113876613027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e024cc517eea407db42b4cdd7ef7cff
+      internalID: 8330856575486019137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82217eafe1cc546feb50b2ae9e8e7701
+      internalID: -3293528721297654877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a9fb684b4442fb8a728e8a1b3c053
+      internalID: -3713420863815283190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab59bcf24b84c5e9b860cf2ae1834f
+      internalID: 5008789626901511209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ef328f48854d479daa1c4f107e88e
+      internalID: -1074380525354365939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f4952422a064611840f1cec399efff
+      internalID: -1079219043893858827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527307882dee7493f867a83565b6b5e7
+      internalID: -3543495636023364074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d271bdee3434953923d0e7dfcb8d83
+      internalID: -105738977694979969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b7f1e8c01754c98b96d798cfd9782b
+      internalID: -5281464730680197118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75879e5c223224528beec95811de44b5
+      internalID: -5358503115347591159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b3ed293aa244f2af9436e3072fd19
+      internalID: 4735543749927437588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825bb7e9f6bdf492793a4dfbbf795b20
+      internalID: -358651861408402519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85bca41f62e4381b21b4a9d2d11dcb
+      internalID: 8928951013992595900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c44c5e3ffd6432cb5b33d9f8c185c8
+      internalID: -8810804525836117372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae735b15df8d94e81b5e5f2550ae89d5
+      internalID: 5204885209979864365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885a95aa58b6459d8d69f7bb750faff
+      internalID: 771629940019517476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aca07a639c24cc6ae48d71f013e50f
+      internalID: -6710710332751562626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a4fbd3317e4441b22004bc3cd72c2
+      internalID: -7237729540373075427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a95a10008dd417daccb05b2e6c19ed
+      internalID: 7487970796781625638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bbcab3310844dd49b10a6e5b6f87d1
+      internalID: 8043826614004007869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d50c97e8c24419903e58d720e4fe0
+      internalID: -4987832111584287026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b292e79987947adb892a7df57d9827
+      internalID: -91959271874427092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b966ce5ebbd1c42c29c6446e1089716b
+      internalID: -4534588050589315013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09149a3cb8f4c4c0fab2f3e273011743
+      internalID: 3405243350818970786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c6e0870d7d4389a0df799a9cdfd7a
+      internalID: -5754580710001145222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6d637ed7f4d49fd9ba4dba3b3eed1f
+      internalID: 4615632466269733095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8aff4614cac463db92eead39b5dc06
+      internalID: -5087942744163816179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480688efe874847c597193613c2918b5
+      internalID: -4328385233351531501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6f45092f6e7481f802f25f70e86b1a
+      internalID: 7376895364091563661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114fcae32def648a99f4d1be29765a0b
+      internalID: -7702059800135554896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e008b4321ac8445cad2db3ba7ae99e9
+      internalID: -3435846721916636881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce643b03c97420998513de2c68f610
+      internalID: 1002674175682914357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba45195b3c548b88f0ffc5e83da2dc
+      internalID: -877954674063779509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e1ed4cf0924f41988ec4146bdf66b
+      internalID: -7936881230774025998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0e57697175243149248c0e39a0470d
+      internalID: 2929476262715981377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7c4b5036c924aef9b8df1d3a0823f0
+      internalID: 5128240777287737912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ecef0ecdf1f422e9eab271eb16ec05
+      internalID: 429459607886647736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb580a8f08948d587cab878863e8a2
+      internalID: 6419080985244016306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d3afdb9ec194fad9828827291306f1
+      internalID: -5245809917792245298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0dd7245cae4c2f8cae4356124536c
+      internalID: -1727964369291186957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fa3a4ab16624071adaf44418ce5fab
+      internalID: -4873236306080757372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61339e17e8bbf4ab986bf9dd8108559a
+      internalID: -810835483960004474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c887269a84d747f6b118896de24d642
+      internalID: 2780008786169104730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9bc2ffa82ae433292b7313f0c05bf2
+      internalID: 3124580160277514731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5f12b1d6ba34cc4a8241f5bebe2026
+      internalID: -8159900125149727217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde6d5d253fd54e7eb338672eb7664fd
+      internalID: 7149392585872441173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747e6dc4fd94142d5b2be763d03ca5b2
+      internalID: -7427036942087560806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c387f44591f254f21892e952f33dd9df
+      internalID: 8256794884752518536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d512d1a2252da4543a6de46c6e3ed863
+      internalID: 1549728512875448433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ce0eeeab954481b3cb88d004b3de2
+      internalID: 2084912455915303574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dc1d5bd20f4432cadd9fba03fdc7f8
+      internalID: 295905139653682027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1683788f5fa49433ab3f0104d88a21a4
+      internalID: -7787878294928214943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092f5603c9da47e0a8ed350bed78099
+      internalID: -5761087790578978286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117297ed5e9c6447e81a8b0938495e55
+      internalID: 9157328191094408655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19de2f4078842d880731263c227fca
+      internalID: 3589096499567964932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f6d424f4294de3a410ad554e359e6
+      internalID: 1338734653148686687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8999408a64aa435f964def6c7d2bf8f
+      internalID: -8156746844236243165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f875bd3c576074c51b01ea9fe2ce4a3f
+      internalID: -5771535930700300375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_65
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c49bd0a4a2649da8e34061e0d8ab2d
+      internalID: -7754520020455455805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b3fa8178cf4d0e82682831ab55c5c
+      internalID: 1747171670240252144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8084e0ef5b4aa492332892e8ec974
+      internalID: 6575747984349274268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7231e9569546c4a04b0cc3a354b8bf8a
+      internalID: -4310108104967149035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c528a405f65cb4c21a48165734fd48df
+      internalID: 6318221239522644301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1dba7d157504d9aa5b6cb42143c291
+      internalID: 4384449110736048314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c6859c3475f4c76bc3e9cec9385544
+      internalID: -3314590767581017276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbb3a714d4d74fd381efc309991aa96
+      internalID: 8783364705269748842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6619e18d79b8426b92f20def1fc8e65
+      internalID: 1143838740650113039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b9bc55418674b8aaace446518d0eae
+      internalID: -1415274692585461627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5165c627bc55f4b08baba73c62082514
+      internalID: -9183841230090343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85771c29dd0bd43d7bbb5d2b42b5f709
+      internalID: 798107524075128610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_77
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197a5865f1649404fa2a15aef80c7cf3
+      internalID: 727544678527341423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf578b0dbea4fc3a7b2d76ce5af05e
+      internalID: -9220722770674886088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf9a8707957463b84ede3836536fe7
+      internalID: -8681862709820796340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acce11bd08dd84d8dbc9c579b31dcf5c
+      internalID: -3476924191219692548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a0061e42a949dcb3ddac09d29e6eb
+      internalID: -483383130911112996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196862748a0b49419585e0bf7079aef
+      internalID: 5772644149527467956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a53a79f2ab450e986e781baedf77a
+      internalID: 4634830242317343053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c001ca37834b6882f16dd959d5416
+      internalID: 4016258618058634726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec8ff357e6e4233b1609e642e7e434
+      internalID: 1496939235123798520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905ee24709c1748c9839e365456bea0f
+      internalID: 9206235075007670852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9faf2b49f5c40149a17b9811cebd8a
+      internalID: 2690560965915077302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc732ee5cd80467ba09a1e6a22b638d
+      internalID: 8145470889953582571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a696be87b384b678f2b690c6643389
+      internalID: 7198922746442196138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67671655279d499a9abe37aef82a3c9
+      internalID: 218334129392452019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97ac025db207499991b1c886fd5cfb0
+      internalID: 828394118398169862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d6dafd6f7aa468ab61f7a1596ba5e6
+      internalID: 803496469797075184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_93
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b49e4745ebf44df8f790010a853f9d
+      internalID: 7616393802810539777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee135ad2b3f3c4639a6150cbee5e11ad
+      internalID: -7474112497470524754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_95
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa339e9d690ca4047acad40d15e7bb5a
+      internalID: -6323281463811229647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2658ce6d63f43dbb10c6dbe44b21ff
+      internalID: -4797779558221908121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_97
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b588ba355c44868142ec7c34df582
+      internalID: 2036958429764974042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130adc1cc9f7241a3bf40eeb6769157b
+      internalID: 736921052086985803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HackySprites_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b799b279c84c62993bcb551ac8ff1
+      internalID: 4183688116646096158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

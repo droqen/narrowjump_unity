@@ -59,5 +59,15 @@
         {
             return (originalValue - a1) / (b1 - a1) * (b2 - a2) + a2;
         }
+
+        public static bool boundbump(GameObject a, Vector3 move, GameObject b)
+        {
+            return boundbump(a.GetComponent<BoxCollider2D>().bounds, move, b.GetComponent<BoxCollider2D>().bounds);
+        }
+        public static bool boundbump(Bounds a, Vector3 move, Bounds b)
+        {
+            a.center += move;
+            return a.Intersects(b);
+        }
     }
 }
